@@ -1,4 +1,5 @@
 .venv
 .env
 data
+working.ipynb
 __pycache__
